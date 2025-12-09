@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Power (In Your Soul)",
+  "base_artist": "Interupt",
+  "createdAt": "2025-12-09T05:40:05.312883Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Power (In Your Soul)",
+      "artist": "Interupt",
+      "has_synced": false,
+      "path": "select/01_Power_(In_Your_Soul)_Interupt.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Power In Your Soul",
+      "artist": "Adrian Fyrla",
+      "has_synced": true,
+      "path": "select/02_Power_In_Your_Soul_Adrian_Fyrla.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Power (In Your Soul)",
+      "artist": "Interupt、Luna LePage",
+      "has_synced": true,
+      "path": "select/03_Power_(In_Your_Soul)_Interupt、Luna_LePage.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Power (In Your Soul)",
+      "artist": "Interupt/Luna LePage",
+      "has_synced": true,
+      "path": "select/04_Power_(In_Your_Soul)_Interupt_Luna_LePage.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Power (In Your Soul) (feat. Luna LePage)",
+      "artist": "Interupt",
+      "has_synced": true,
+      "path": "select/05_Power_(In_Your_Soul)_(feat._Luna_LePage)_Interupt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Power (In Your Soul)",
+      "artist": "Interupt feat. Luna LePage",
+      "has_synced": true,
+      "path": "select/06_Power_(In_Your_Soul)_Interupt_feat._Luna_LePage.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "FEEL the POWER in YOUR SOUL",
+      "artist": "HIDEKI NAGANUMA",
+      "has_synced": false,
+      "path": "select/07_FEEL_the_POWER_in_YOUR_SOUL_HIDEKI_NAGANUMA.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FEEL the POWER in YOUR SOUL",
+      "artist": "Naganuma, Hideki",
+      "has_synced": true,
+      "path": "select/08_FEEL_the_POWER_in_YOUR_SOUL_Naganuma,_Hideki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Power (In Your Soul) (Holmes John Remix)",
+      "artist": "Interupt",
+      "has_synced": false,
+      "path": "select/09_Power_(In_Your_Soul)_(Holmes_John_Remix)_Interupt.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Power (In Your Soul) [feat. Luna LePage]",
+      "artist": "Interupt",
+      "has_synced": false,
+      "path": "select/pl_01_Power_(In_Your_Soul)_[feat._Luna_LePage]_Interupt.txt"
+    }
+  ]
+}
